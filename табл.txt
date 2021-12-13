@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>таблица</title>
+</head>
+<body>
+<form ation="index.html">
+<p>логин/p><input value="логин"><br>
+<p>имя</p><input value="имя"><br>
+<p>фамилия</p><input><br>
+<p>почта</p><input value="e-mail"<br>
+<p>телефон</p><input value="tel.:"><br>
+<p>пароль</p><input type="password" value="psw"><br>
+<p>подтвердить пароль</p><input type="password" value="psw"><br>
+<input type="button" value="войти">
+<button>зарегистрироваться</button>
+</form>
+</body>
+</html>
