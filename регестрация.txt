@@ -1,0 +1,17 @@
+<html>
+<head>
+<title> Valheim </title>
+</head>
+<body>
+<form action="url">
+<formaction="index.html">
+<p>имя</p><input value="Егор">
+<p>фамилия</p><input value="Грушин">
+<p>год рождения</p><input value="30.10.2006">
+<p>логин</p><input value="iymerlizadonbas@gmail.com">
+</form>
+<input type="button" value="войти">
+<p>Регистрация</p>
+<input type="button"value="Регистрация">
+</body>
+</html>
