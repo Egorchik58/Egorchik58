@@ -1,0 +1,35 @@
+<html>
+<head>
+<style>
+/* Style the element with the id "myHeader" */
+#myHeader {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+}
+
+/* Style all elements with the class name "city" */
+.city {
+    background-color: tomato;
+    color: yellow;
+    padding: 10px;
+}
+</style>
+
+<!-- A unique element -->
+<h1 id="myHeader">Города</h1>
+
+<!-- Multiple similar elements -->
+<h2 class="city">Лондон</h2>
+<p>Лондон находиться в Англии.</p>
+
+<h2 class="city">Paris</h2>
+<p>Находиться во Франции.</p>
+
+<h2 class="city">Tokyo</h2>
+<p>Токио  находиться в Японии.</p>
+</head>
+<body>
+</body>
+</html>
