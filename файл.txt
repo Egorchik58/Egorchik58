@@ -4,6 +4,25 @@
             <title>Что такое ОГЭ</title>
 <link rel="stylesheet" type="text/css" href="style.css" />
 <style>
+#navbar {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+        width: 100px;
+      }
+      #navbar li {
+        border-left: 10px solid #666;
+        border-bottom: 1px solid #666;
+      }
+      #navbar a {
+        background-color: #949494;
+        color: #fff;
+        padding: 5px;
+        text-decoration: none;
+        font-weight: bold;
+        border-left: 5px solid #33ADFF;
+        display: block;
+      }
 body {
             background: #f3f2f3;
             color: #000000;
@@ -70,7 +89,14 @@ body {
 		 
 	<div id="menu">
 	<h2>Меню</h2>
-	</div>
+
+<ul id="navbar">
+      <li><a href="#">Главная</a></li>
+      <li><a href="#">Новости</a></li>
+      <li><a href="#">Контакты</a></li>
+      <li><a href="#">О нас</a></li>
+    </ul>
+</div>
 		 
 	<div id="content">
 	<h2>Основной государственный экзамен (ОГЭ) - это основной вид экзамена для выпускников 9 классов в средней школе России. Сдача ОГЭ необходима для перехода в 10 класс. Реузльтаты ОГЭ влияют на оценки в аттестате. Выпускники 9 классов общеобразовательных учреждений сдают 2 обязательных экзамена (русский язык и математика) и 2 экзамена по предметам по выбору . Согласно новому Порядку проведения государственной итоговой аттестации по образовательным программам основного общего образования , экзамены по другим учебным предметам обучающиеся сдают на добровольной основе по своему выбору.
